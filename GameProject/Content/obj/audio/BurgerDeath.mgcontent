@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Thib/Documents/Visual Studio 2015/Projects/GameProject/GameProject/Content/audio/BurgerDeath.wav</SourceFile>
+  <SourceTime>2017-02-23T18:03:26.822785+01:00</SourceTime>
+  <DestFile>C:/Users/Thib/Documents/Visual Studio 2015/Projects/GameProject/GameProject/Content/bin/audio/BurgerDeath.xnb</DestFile>
+  <DestTime>2017-02-23T18:13:59.7090741+01:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
